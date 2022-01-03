@@ -1,5 +1,5 @@
 # bailan-AEzuoye
- - 我用Python摆烂了你的AR作业, 原视频: https://www.bilibili.com/video/BV1xL4y1E7nT
+ - 我用Python摆烂了你的AE作业, 原视频: https://www.bilibili.com/video/BV1xL4y1E7nT
  - 手动K帧, 即时生成
  - 使用依赖:
 ```
